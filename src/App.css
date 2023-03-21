@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.projectTitle {
+  max-width: 40%;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 20px;
+}
